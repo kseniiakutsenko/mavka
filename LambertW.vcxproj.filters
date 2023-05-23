@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\hypokinez\Desktop\mavka\src\main\java\com\example\mavka\calculate_c\LambertW.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hypokinez\Desktop\mavka\src\main\java\com\example\mavka\calculate_c\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{08609DC1-AB36-3472-B2C7-14D0A90EF56B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

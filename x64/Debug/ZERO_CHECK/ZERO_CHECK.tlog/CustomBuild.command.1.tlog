@@ -1,0 +1,10 @@
+^C:\USERS\HYPOKINEZ\DESKTOP\MAVKA\CMAKEFILES\D2B7D0AA35891BA6BD25A74895FA6CBA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/hypokinez/Desktop/mavka/src/main/java/com/example/mavka/calculate_c -BC:/Users/hypokinez/Desktop/mavka --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/hypokinez/Desktop/mavka/mavka.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

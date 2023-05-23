@@ -1,0 +1,5 @@
+C:/Users/hypokinez/Desktop/mavka/CMakeFiles/mavka.dir
+C:/Users/hypokinez/Desktop/mavka/CMakeFiles/MainMath.dir
+C:/Users/hypokinez/Desktop/mavka/CMakeFiles/LambertW.dir
+C:/Users/hypokinez/Desktop/mavka/CMakeFiles/ALL_BUILD.dir
+C:/Users/hypokinez/Desktop/mavka/CMakeFiles/ZERO_CHECK.dir
